@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0551505f-78a7-40a6-a131-031dac687b49" version="1">
+  <Properties>
+    <Name>Pokemon Yeah Yeahs</Name>
+    <Stability>Alpha</Stability>
+    <Description>ef rmfkpofdkf ekrmv</Description>
+    <Authors>Chaud</Authors>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Buzzwhole/black_4x4.dds</File>
+    <File md5="8F43094CBE7E42AB5317719C1239C2EA">Units/Art/Buzzwhole/body2.dds</File>
+    <File md5="FAF9D9A3708B0E269FF0C388585660D1">Units/Art/Buzzwhole/bodyA1.dds</File>
+    <File md5="91D4EB19414C776CEC32F18B3982E99A">Units/Art/Buzzwhole/bodyA1_Megraed.dds</File>
+    <File md5="2ECBF643C6CEB03BD00D5930BEF10BB1">Units/Art/Buzzwhole/bodyC1.dds</File>
+    <File md5="F10A0A51822AF5545907416CBD45029E">Units/Art/Buzzwhole/bodye1.dds</File>
+    <File md5="61AF7ACC0E723D7894EF465CE3D0F9B7">Units/Art/Buzzwhole/buzzwhole.fxsxml</File>
+    <File md5="A7EB6A6DB4E7F1E654070729C1C49701">Units/Art/Buzzwhole/buzz_attackA_anim.gr2</File>
+    <File md5="4B9B878EBE413DE5E6F89B614A835915">Units/Art/Buzzwhole/buzz_attackB_anim.gr2</File>
+    <File md5="E5770468A7805A00B7742E95DC309195">Units/Art/Buzzwhole/buzz_death_anim.gr2</File>
+    <File md5="47C97B4AB9A6C3FA30652D4A681AF690">Units/Art/Buzzwhole/buzz_fortify_anim.gr2</File>
+    <File md5="1FC6251B562BB72F2CBEC61B7E738337">Units/Art/Buzzwhole/buzz_hurt_anim.gr2</File>
+    <File md5="46D1DE4813781E5B8F97F592F4809D06">Units/Art/Buzzwhole/buzz_idle_anim.gr2</File>
+    <File md5="5724E192849E9BDFB6F20C1F234FEE24">Units/Art/Buzzwhole/buzz_model.gr2</File>
+    <File md5="ED2CDA1FF6F165A92EE755F32CE53B37">Units/Art/Buzzwhole/buzz_run_anim.gr2</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Cosmog/black_4x4.dds</File>
+    <File md5="6EEFB5474BFC4EB6427E24DE2C1D33C5">Units/Art/Cosmog/BODYB.dds</File>
+    <File md5="8FE91A6A9A3E513B732513E4A8374216">Units/Art/Cosmog/BODYBeyre.dds</File>
+    <File md5="BC28E52837249CA9E5A8C95CCCE530F9">Units/Art/Cosmog/cosmog.fxsxml</File>
+    <File md5="E7DA3A1AD778C5AE7FB4BAB2DA724609">Units/Art/Cosmog/cosm_attackA_anim.gr2</File>
+    <File md5="3AD9974D20A806B2AA4B389FC573CE9B">Units/Art/Cosmog/cosm_attackB_anim.gr2</File>
+    <File md5="BA0BB7D39761EC7C2E6A0382A09DC103">Units/Art/Cosmog/cosm_death_anim.gr2</File>
+    <File md5="109DEE4A22123064205AEFE5705DDD89">Units/Art/Cosmog/cosm_fortify_anim.gr2</File>
+    <File md5="5FB568AD4FEE2F0DE3A27E25AEE2F050">Units/Art/Cosmog/cosm_hurt_anim.gr2</File>
+    <File md5="1126283F44FB3963ED2A0D43679697F5">Units/Art/Cosmog/cosm_idle_anim.gr2</File>
+    <File md5="BA855D107AAEB07C1F90ED7677AD5AB0">Units/Art/Cosmog/cosm_model.gr2</File>
+    <File md5="A65E08C288FEB4A479DFA3D8728E0166">Units/Art/Cosmog/cosm_run_anim.gr2</File>
+    <File md5="5BB30B1CBA33F88B3391743DEA72B1C4">Units/Art/Cosmog/eyenuif.dds</File>
+    <File md5="31768B6E97478EBA47E0E37B348D724B">Units/Art/Cosmog/pm0871_00_Mouth1.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Cresselia/black_4x4.dds</File>
+    <File md5="8F6141E35DB99A04F90E8AE7263E8081">Units/Art/Cresselia/cresselia.fxsxml</File>
+    <File md5="4BFC2D604EA2713AF4645974F2787732">Units/Art/Cresselia/cres_attackA_anim.gr2</File>
+    <File md5="F1EB251E589C4554658A64A0C6A7CF66">Units/Art/Cresselia/cres_attackB_anim.gr2</File>
+    <File md5="E1ADE28EF586EC1B9FBED67A53BE5A5C">Units/Art/Cresselia/cres_death_anim.gr2</File>
+    <File md5="4921230DE9BFBAACCFFDBDF8BC7B5547">Units/Art/Cresselia/cres_fortify_anim.gr2</File>
+    <File md5="757527A18D156C8086E7BBD008D5AE53">Units/Art/Cresselia/cres_hurt_anim.gr2</File>
+    <File md5="FD2F694D9A14E0D98BDAACB134E1D9E2">Units/Art/Cresselia/cres_idle_anim.gr2</File>
+    <File md5="58560F8BB0A74CC04879F34E3D5C95E0">Units/Art/Cresselia/cres_model.gr2</File>
+    <File md5="11D85AB4A6C9D36659828E1AD273FD1F">Units/Art/Cresselia/cres_run_anim.gr2</File>
+    <File md5="33C071ECDC7ED91D2547B4AAEA820E89">Units/Art/Cresselia/pm0488_00_BodyA1Merged.dds</File>
+    <File md5="110A8389D3145D9B4421333C618B2238">Units/Art/Darkrai/a1.gr2</File>
+    <File md5="FCD7DF228A6D1F2149B7D7593F166AC1">Units/Art/Darkrai/a1anim.gr2</File>
+    <File md5="5AE74F52FB74BF07E383FBF571E2295C">Units/Art/Darkrai/a1_idle_anim.gr2</File>
+    <File md5="13D3C18F1F3F72BA34510B017D6BAABA">Units/Art/Darkrai/a1_run_anim.gr2</File>
+    <File md5="49227AA3FBCA1CC73D5C49D38C8DB459">Units/Art/Darkrai/a2anim.gr2</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Darkrai/black_4x4.dds</File>
+    <File md5="8F43094CBE7E42AB5317719C1239C2EA">Units/Art/Darkrai/body2.dds</File>
+    <File md5="670659EA4148BD5A1969E57E44475202">Units/Art/Darkrai/darkrai.fxsxml</File>
+    <File md5="290A825CB9062678D9EF163EDD0C9936">Units/Art/Darkrai/Darkrai_death_anim.gr2</File>
+    <File md5="EAF3C46865458D92CFF882749CBB424A">Units/Art/Darkrai/Darkrai_fortify_anim.gr2</File>
+    <File md5="E650E9BB8CFDEB2112C1721EA5636603">Units/Art/Darkrai/Darkrai_hurta_anim.gr2</File>
+    <File md5="2AD005F97F4A62E3271A8C3806212504">Units/Art/Darkrai/Darkrai_hurt_anim.gr2</File>
+    <File md5="FB89D7B0F2B293DA0E181ED950E49B2F">Units/Art/Darkrai/Darkrai_strikea_anim.gr2</File>
+    <File md5="9B6E59E45B637BE34349D7C72DCEF2F9">Units/Art/Darkrai/Darkrai_strikeb_anim.gr2</File>
+    <File md5="A80ED3C030BC19F1CD17FB5D49A097B0">Units/Art/Darkrai/lion.dds</File>
+    <File md5="285F3F5CC1B2498974F00A8E53D551C9">Units/Art/Darkrai/LOWPOLY_DarkraiCiv.gr2</File>
+    <File md5="3543F822784181E984D9CB3ED056932D">Units/Art/Darkrai/LOWPOLY_idele_fbx_anim.gr2</File>
+    <File md5="3202CF9D5255789BA7D5E1CEE95C0D0D">Units/Art/Darkrai/meshmat1.gr2</File>
+    <File md5="64C521827582761956E731F73EAF22B2">Units/Art/Darkrai/pm0491_00_BodyA1.dds</File>
+    <File md5="45F8F634E2C738DDF9A0965A6E290822">Units/Art/Darkrai/pm0491_00_BodyB1.dds</File>
+    <File md5="EB174C3F23E7474738089181BF5BE202">Units/Art/Darkrai/pm0491_00_Eye1.dds</File>
+    <File md5="53AD4398A3E966F6B4ABB90D7A35ED87">Units/Art/Darkrai/Units.xml</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Drampa/black_4x4.dds</File>
+    <File md5="E7B79E1C7FD2BB42E6E6BB253134FE29">Units/Art/Drampa/drampa.fxsxml</File>
+    <File md5="E8E54C0A876CF974A6595E3AC02AD8C0">Units/Art/Drampa/dram_attackA_anim.gr2</File>
+    <File md5="C18AF29CBED6DE125024073531186DD9">Units/Art/Drampa/dram_attackB_anim.gr2</File>
+    <File md5="15048A51ED551CB614D2A84C7F7EC666">Units/Art/Drampa/dram_death_anim.gr2</File>
+    <File md5="82AC63716BDC908B8AC9C6E7B59D0235">Units/Art/Drampa/dram_fortify_anim.gr2</File>
+    <File md5="989BE0B37C7F3A74B838AF08C8110841">Units/Art/Drampa/dram_hurt_anim.gr2</File>
+    <File md5="9C7E06ACD98FCE69E14B74548E50CDED">Units/Art/Drampa/dram_idle_anim.gr2</File>
+    <File md5="B6DEC07F88D417DA3BC20792FDF63439">Units/Art/Drampa/dram_model.gr2</File>
+    <File md5="42CFF42108341DE1802D59053840B1D6">Units/Art/Drampa/dram_run_anim.gr2</File>
+    <File md5="01C26B9B3FEAEFD25859685E8F959812">Units/Art/Drampa/pm0856_00_BodyA1_merged.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Gengar/black_4x4.dds</File>
+    <File md5="2D3BF4B166E94B211F002662F61D0481">Units/Art/Gengar/gengar.fxsxml</File>
+    <File md5="448B7B65D55CC4FF7DB6440D69D3F427">Units/Art/Gengar/gen_attackA_anim.gr2</File>
+    <File md5="491D116654F6C57292B6ED58C5B8F8B5">Units/Art/Gengar/gen_attackB_anim.gr2</File>
+    <File md5="67AAC2062C9518080F4B3B4295903464">Units/Art/Gengar/gen_death_anim.gr2</File>
+    <File md5="DC1CAA6E19777ADCF8F4A7772F14C74F">Units/Art/Gengar/gen_fortify_anim.gr2</File>
+    <File md5="4C3D6D1B3B2977FC9A23BA6E0F9E854B">Units/Art/Gengar/gen_hurt_anim.gr2</File>
+    <File md5="B013B5E384FAD32E4D20ADB49DE116E3">Units/Art/Gengar/gen_idle_anim.gr2</File>
+    <File md5="B4D66EC5477C3394FB2DF6678E3DA9CD">Units/Art/Gengar/gen_model.gr2</File>
+    <File md5="7DC0F9B8DA2C5E609E84882B8C241C58">Units/Art/Gengar/gen_run_anim.gr2</File>
+    <File md5="6E45113CFB49AD0EF63763FB7C59004C">Units/Art/Gengar/pm0094_00_Body2MERGED.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/GiratinaA/black_4x4.dds</File>
+    <File md5="7EB58F4DE0C50C327A62C6C617E73000">Units/Art/GiratinaA/galt_attackA_anim.gr2</File>
+    <File md5="46157F21506E742A1BCCC1906AB36BA4">Units/Art/GiratinaA/galt_attackB_anim.gr2</File>
+    <File md5="2948D00B8AFFA21D916EBB5E20469EF7">Units/Art/GiratinaA/galt_death_anim.gr2</File>
+    <File md5="06F2332185EFC3E08230EE09745A3D06">Units/Art/GiratinaA/galt_fortify_anim.gr2</File>
+    <File md5="CB6187130EBE760BF96B5126F2D9BDF4">Units/Art/GiratinaA/galt_hurt_anim.gr2</File>
+    <File md5="4926467E60FDF9D204A32211056C7CF9">Units/Art/GiratinaA/galt_idle_anim.gr2</File>
+    <File md5="975DB207FD619B5D58BE2FE4B9E4F2A1">Units/Art/GiratinaA/galt_model.gr2</File>
+    <File md5="9A4AE7BE706BFA2A50871E726D029F14">Units/Art/GiratinaA/galt_run_anim.gr2</File>
+    <File md5="6167225CDDDABDA0EBE7F3860DE1C0C7">Units/Art/GiratinaA/giratinaa.fxsxml</File>
+    <File md5="9A8880705593286C733F14DDDCAB19D6">Units/Art/GiratinaA/pm0487_11_BodyB1.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/GiratinaO/black_4x4.dds</File>
+    <File md5="7297EDD82A16F2BC7D1D9D96068E0A4E">Units/Art/GiratinaO/giratinao.fxsxml</File>
+    <File md5="62CE14C3671EC7532F9DF466582EFF2B">Units/Art/GiratinaO/gori-hurt_anim.gr2</File>
+    <File md5="B7882F8E53FFBCE4F15A46E7B4E8420D">Units/Art/GiratinaO/gori_attackA_anim.gr2</File>
+    <File md5="B9F7ECDB28B43B13459E767025559B7C">Units/Art/GiratinaO/gori_attackB_anim.gr2</File>
+    <File md5="FAA7AA8E069696E7A6B17DCC8649A351">Units/Art/GiratinaO/gori_death_anim.gr2</File>
+    <File md5="339448E5706C6D0ED715199F5EC93ABF">Units/Art/GiratinaO/gori_fortify_anim.gr2</File>
+    <File md5="2441904A0DFC0151CA25CC050490064F">Units/Art/GiratinaO/gori_idle_anim.gr2</File>
+    <File md5="C2434B868621C0700A611A314E5E683F">Units/Art/GiratinaO/gori_model.gr2</File>
+    <File md5="068122D86DB7614BB904DED0365D8CBF">Units/Art/GiratinaO/gori_run_anim.gr2</File>
+    <File md5="1C4C2B7672D70BF68CB826E94384C75F">Units/Art/GiratinaO/pm0487_12_BodyA1Merged.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Guzzlord/black_4x4.dds</File>
+    <File md5="07325D6807485C675017265CDE475732">Units/Art/Guzzlord/body1.dds</File>
+    <File md5="3F454B58451B30CEECA0DA350E01A9E6">Units/Art/Guzzlord/eyeA1.dds</File>
+    <File md5="F63D896157C4B9363C8FA3EACDFDDE17">Units/Art/Guzzlord/eyeB1.dds</File>
+    <File md5="5A46C5B51B92E1F2038B3D8D2BC11535">Units/Art/Guzzlord/guzzlord.fxsxml</File>
+    <File md5="EEB366A016F22C52824DF35C050BE669">Units/Art/Guzzlord/guzz_attackA_anim.gr2</File>
+    <File md5="3692851C5AD6E3F1A05F1D7848E06AEE">Units/Art/Guzzlord/guzz_attackB_anim.gr2</File>
+    <File md5="2A9D5BC4B70B859C08246B87A1483480">Units/Art/Guzzlord/guzz_death_anim.gr2</File>
+    <File md5="37AF271F091975B87A8005F0644CB07C">Units/Art/Guzzlord/guzz_fortify_anim.gr2</File>
+    <File md5="3AAFB62EEA7632F1A7A75520544FD1EE">Units/Art/Guzzlord/guzz_hurt_anim.gr2</File>
+    <File md5="389EE412150E6EA4EBA572E8B08747D7">Units/Art/Guzzlord/guzz_idle_anim.gr2</File>
+    <File md5="A037F3E6E4B754FA5E34F6AE24A2DBDB">Units/Art/Guzzlord/guzz_model.gr2</File>
+    <File md5="F37C55BE95F7D7FEA0D2DF24BFA87392">Units/Art/Guzzlord/guzz_run_anim.gr2</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Hitmonlee/black_4x4.dds</File>
+    <File md5="8F43094CBE7E42AB5317719C1239C2EA">Units/Art/Hitmonlee/body2.dds</File>
+    <File md5="C6D5069E4FFB82095742D7486033AD8F">Units/Art/Hitmonlee/hitlee_attackA_anim.gr2</File>
+    <File md5="B862FA76D81CFA4F8E420E8F68ED7AB8">Units/Art/Hitmonlee/hitlee_attackB_anim.gr2</File>
+    <File md5="9E1CEA052BFB97BD9DB4D000EC4B0580">Units/Art/Hitmonlee/hitlee_death_anim.gr2</File>
+    <File md5="2ABA1C33232AE9F3FEC657B121A6E833">Units/Art/Hitmonlee/hitlee_fortify_anim.gr2</File>
+    <File md5="68ACFC61672AECD0D61301090D23EB96">Units/Art/Hitmonlee/hitlee_hurt_anim.gr2</File>
+    <File md5="11CEA693CB63CEC32C9B9FE60AED399F">Units/Art/Hitmonlee/hitlee_idle_anim.gr2</File>
+    <File md5="5C739C7E14ACA0171B8B52EB1B2B5A1B">Units/Art/Hitmonlee/hitlee_model.gr2</File>
+    <File md5="539BBA0A80651A686E330AD147F7DB14">Units/Art/Hitmonlee/hitlee_run_anim.gr2</File>
+    <File md5="3E8622323229B8FCCCF432BA738CE28E">Units/Art/Hitmonlee/hitmonlee.fxsxml</File>
+    <File md5="6E863B869FA3DDAE285EE9F9233A9897">Units/Art/Hitmonlee/pm0106_00_Body_Merged.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Hoopa/black_4x4.dds</File>
+    <File md5="3B1E6089D0AB07C2D46F496469867694">Units/Art/Hoopa/hoopa.fxsxml</File>
+    <File md5="6BEBDD480CAAA7E4C19E2D53236E2A94">Units/Art/Hoopa/hoop_attackA_anim.gr2</File>
+    <File md5="C88DFFB83558A4499B2969D08EEC06B8">Units/Art/Hoopa/hoop_attackB_anim.gr2</File>
+    <File md5="3CC8ABD75F3936F8479951CF0B2C2C22">Units/Art/Hoopa/hoop_death_anim.gr2</File>
+    <File md5="4C0F07DE6C9DEDADD7EFD940DA6C1B5B">Units/Art/Hoopa/hoop_fortify_anim.gr2</File>
+    <File md5="3AF117BB06BA457DEA9DBD13B915C272">Units/Art/Hoopa/hoop_hurt_anim.gr2</File>
+    <File md5="947C65A29B93335255D5819999787677">Units/Art/Hoopa/hoop_idle_anim.gr2</File>
+    <File md5="CCDED349F6EF210739B756EFB3FC63C9">Units/Art/Hoopa/hoop_model.gr2</File>
+    <File md5="D5FD98A6E1363ACBBF01CA8BF48CC62F">Units/Art/Hoopa/hoop_run_anim.gr2</File>
+    <File md5="48535B985FF36C8CA27BD46A45E6775B">Units/Art/Hoopa/pm0774_12_Bodymerged.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Hydregion/black_4x4.dds</File>
+    <File md5="FA2E9463D575132D102D11174EFD6BC3">Units/Art/Hydregion/hydregion.fxsxml</File>
+    <File md5="DF6C0FDA44D797EFFA0F133CBB40A3CB">Units/Art/Hydregion/Hydr_attackA_anim.gr2</File>
+    <File md5="7AD513CF3D199062BB0B682DCD06A17B">Units/Art/Hydregion/Hydr_attackB_anim.gr2</File>
+    <File md5="2B47F1C16DB55BD5C70EE348A7B6F77F">Units/Art/Hydregion/Hydr_death_anim.gr2</File>
+    <File md5="3E1FF09957412DADAC37D3F9D1BC034F">Units/Art/Hydregion/Hydr_fortify_anim.gr2</File>
+    <File md5="4CACF6BE0D3D6EAECF107831DC598B20">Units/Art/Hydregion/Hydr_hurt_anim.gr2</File>
+    <File md5="B39C7DC6E66939860B0EA4E6E6D0DEB6">Units/Art/Hydregion/Hydr_idle_anim.gr2</File>
+    <File md5="CF04AB4261F42DA04C4A91FD0E6B55A4">Units/Art/Hydregion/Hydr_model.gr2</File>
+    <File md5="4B78B63F08B9922EC7CA76EE601FBD82">Units/Art/Hydregion/Hydr_run_anim.gr2</File>
+    <File md5="2CC6A1B45C82502C4A293ED4F8865297">Units/Art/Hydregion/pm0635_00_BodyA1.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744">Units/Art/Nihilego/black_4x4.dds</File>
+    <File md5="714DD4059E01A127220C41284CC80E76">Units/Art/Nihilego/Body.dds</File>
+    <File md5="EE649C193C38E0D1E7FEA51A801E11D6">Units/Art/Nihilego/nego_attackA_anim.gr2</File>
+    <File md5="169D45A5DAF4DE55754409087BB3756F">Units/Art/Nihilego/nego_attackB_anim.gr2</File>
+    <File md5="2B119621019A14766E9D9F6E9F8A2632">Units/Art/Nihilego/nego_death_anim.gr2</File>
+    <File md5="C4267F8E3526E9A905DA88ED4567CE7A">Units/Art/Nihilego/nego_fortify_anim.gr2</File>
+    <File md5="E476AB119D9FAE4C6BE04D2C8E31701D">Units/Art/Nihilego/nego_hurt_anim.gr2</File>
+    <File md5="547EDB706F2AFA0BDBC62B84D78075F9">Units/Art/Nihilego/nego_idle_anim.gr2</File>
+    <File md5="03E26F7A08D4DCC091306651AABA454D">Units/Art/Nihilego/nego_model.gr2</File>
+    <File md5="C90EA3A0A944907722832545D04BB4DB">Units/Art/Nihilego/nego_run_anim.gr2</File>
+    <File md5="D4D6B829AB2975804066257826F82EFC">Units/Art/Nihilego/nihilego.fxsxml</File>
+    <File md5="DAEDD32966EC7C3DBF578E2BB4F6BE6A">XML/UnitArt.xml</File>
+    <File md5="90C207431D56B912432A61704D7E20B3">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/UnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
